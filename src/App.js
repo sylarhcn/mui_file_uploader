@@ -1,6 +1,5 @@
 import { useCallback, useState } from "react";
 import FileUploader from "./FileUploader";
-import "@fontsource/roboto";
 import { ThemeProvider } from "@mui/material/styles";
 import { Box, CssBaseline, Typography } from "@mui/material";
 import theme from "./theme";
